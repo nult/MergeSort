@@ -1,1 +1,2 @@
 # MergeSort
+how github work
