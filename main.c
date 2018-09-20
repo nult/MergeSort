@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+// C merge sort code
 int merge(int *data1, int s1, int s2, int *data2);
 int main()
 {
